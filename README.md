@@ -89,23 +89,28 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![5](https://github.com/Pavithraramasaamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118596964/40da44a1-40df-49e4-a81e-288407bc67dc)
 
+## 6.Dataset transformed head:
 
-## 6.LABEL ENCODER:
+![239680850-d5154e3f-27f1-4bc7-b003-d815bb6cb98f](https://github.com/Pavithraramasaamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118596964/214bebaa-fcac-4a6f-bdb8-9bfc28ba9ab6)
+
+
+
+## 7.X.head():
 
 ![6](https://github.com/Pavithraramasaamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118596964/001c3d06-e203-442b-9c3e-1c43dbc269dc)
 
 
-## 7.DECISION TREE:
+## 8.DECISION TREE:
 
 ![7](https://github.com/Pavithraramasaamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118596964/73c0555e-2c75-40c0-86ea-1a69c60c4aed)
 
 
-## 8.ACCURACY:
+## 9.ACCURACY:
 
 ![8](https://github.com/Pavithraramasaamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118596964/d90e7c59-cc85-4dcb-b574-7fe1b58b9703)
 
 
-## 9.PREDICT:
+## 10.PREDICT:
 
 ![9](https://github.com/Pavithraramasaamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118596964/e275dca9-0f6a-4944-97fe-b359c993582e)
 
